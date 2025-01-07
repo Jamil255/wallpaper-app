@@ -4,3 +4,5 @@
 4. A stack push in the third tab
 5. A better stack navigator
 6. Coding all the pages
+
+7. 
